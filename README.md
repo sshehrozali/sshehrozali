@@ -1,11 +1,7 @@
 
 
-### 👋 Hi, I am Shehroz  
-Software Engineer working in Backend, Microservices, Distributed systems, Streaming platforms, Event-driven, Real-time and ERP systems.
-
-Architectures: Hexagonal, Onion, Clean, Domain-driven, Event-driven, API Gateway, Service Discovery, Modular-monolith, Single-tier, Multi-tier.
-
-I talk and write about: Extreme Programming (XP), Test-driven Development (TDD), Behaviour-driven Development (BDD), Clean Code and Lean mindset.
+### 👋 Hi, I am Shehroz
+Love working in complex Distributed and High concurrent systems powered by millions of customers. Currently using Java 17+.
 
 Subscribe to my newsletter: [Here](https://shehroztalks.medium.com/)  
   
