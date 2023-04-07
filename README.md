@@ -1,9 +1,9 @@
 
 
 ### 👋 Hi, I am Shehroz
-Love working in complex Distributed and High concurrent systems powered by millions of customers. Currently using Java 17+.
+#### Love working in complex Distributed and High concurrent systems powered by millions of customers in Java. I am a strong advocate of Clean Software Engineering and Lean principles.
 
-Subscribe to my newsletter: [Here](https://shehroztalks.medium.com/)  
+Read what I teach the world: [Here](https://shehroztalks.medium.com/)  
   
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sshehrozali/" target="_blank">
