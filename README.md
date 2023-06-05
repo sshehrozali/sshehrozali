@@ -1,7 +1,7 @@
 
 
 ### 👋 Hi, I am Shehroz
-#### Love working in complex Distributed and High concurrent systems powered by millions of customers in Java. I am a strong advocate of Clean Software Engineering and Lean principles.
+#### Love working in complex Distributed and High concurrent systems powered by millions of customers in Java & Kotlin. I am a strong advocate of Clean Software Engineering and Lean principles.
 
 Read what I teach the world: [Here](https://shehroztalks.medium.com/)  
   
