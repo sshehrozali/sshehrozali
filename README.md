@@ -8,6 +8,7 @@
 </a>
 
 #### Previous blogs:
+- <a href="https://www.linkedin.com/posts/sshehrozali_concurrency-with-kafka-and-spring-boot-activity-7121149321395212288-2UxP?utm_source=share&utm_medium=member_ios" target="_blank">Playing with concurrency and parallelism in Spring Boot with Apache Kafka for achieving maximum throughput</a>
 - <a href="https://shehroztalks.medium.com/how-we-solved-signup-login-problem-for-mint-app-using-ubers-usl-unified-signup-login-model-d22db5cb3430" target="_blank">How Uber’s engineering model inspired me to increase customer acquisition for our app by 6% weekly</a>
 - <a href="https://shehroztalks.medium.com/today-is-not-about-writing-code-today-is-all-about-velocity-d01d3316ad4f" target="_blank">Today is not about writing code — Today is all about ‘Velocity’</a>
 - <a href="https://shehroztalks.medium.com/great-engineers-need-to-be-courageous-and-you-need-to-be-too-2d5633a7f9d6" target="_blank">Great Engineers need to be ‘Courageous’ — and ‘Why’ You Need to be too</a>
