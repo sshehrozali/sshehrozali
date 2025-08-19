@@ -1,7 +1,7 @@
 
 
 ### 👋 Hi, Shehroz here
-#### I am always curious about working with big distributed systems that are powering millions of users.
+#### I am always curious about working with big distributed systems & platforms that are powering millions of users.
 
 <a href="https://www.linkedin.com/in/sshehrozali/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
