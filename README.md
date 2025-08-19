@@ -8,6 +8,7 @@
 </a>
 
 #### Previous blogs:
+- <a href="https://shehroztalks.medium.com/how-we-modernized-identity-platform-for-millions-of-users-without-breaking-a-thing-at-bazaar-d66578a64af5" target="_blank">From Monolith to Modularity: Modernizing Identity Platform at Scale </a>
 - <a href="https://www.linkedin.com/posts/sshehrozali_dataconsistency-replication-distributedsystems-activity-7193939774817107968-IHQm?utm_source=share&utm_medium=member_desktop" target="_blank">Ensuring Data consistency in high concurrent distributed event-driven systems </a>
 - <a href="https://www.linkedin.com/posts/sshehrozali_jvm-spring-springboot-activity-7164204013935177728-hG7j?utm_source=share&utm_medium=member_ios" target="_blank">JVM apps, Kubernetes and OOMKilled - Fixing memory allocation in containarised microservices </a>
 - <a href="https://www.linkedin.com/posts/sshehrozali_concurrency-with-kafka-and-spring-boot-activity-7121149321395212288-2UxP?utm_source=share&utm_medium=member_ios" target="_blank">Playing with concurrency and parallelism in Spring Boot with Apache Kafka for achieving maximum throughput</a>
