@@ -2,8 +2,8 @@
 
 ### 👋 Hi, Shehroz here
 #### I am always curious about working with big distributed systems & platforms that are powering millions of users.
-##### Technologies: Spring Framework, Spring Boot (4+ years), Spring Web/JPA/Flux/Cloud, Apache Kafka, Redis, SQL/NoSQL, Elasticsearch, Promotheus
-##### Platform & SRE: Kubernetes, AWS, Docker, Google Cloud, Terraform, ArgoCD
+Technologies: Spring Framework, Spring Boot (4+ years), Spring Web/JPA/Flux/Cloud, Apache Kafka, Redis, SQL/NoSQL, Elasticsearch, Promotheus
+Platform & SRE: Kubernetes, AWS, Docker, Google Cloud, Terraform, ArgoCD
 
 <a href="https://www.linkedin.com/in/sshehrozali/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
