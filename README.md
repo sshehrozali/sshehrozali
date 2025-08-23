@@ -2,7 +2,7 @@
 
 ### 👋 Hi, Shehroz here
 #### I am always curious about working with big distributed systems & platforms that are powering millions of users.
-Technologies: Java, Kotlin, Spring Framework/Spring Boot (4+ years), Spring Web/JPA/Flux/Cloud, Maven/Gradle, Apache Kafka, Redis, SQL/NoSQL, Elasticsearch, Promotheus, Mimir, Tempo, Grafana, Loki, OpenTelemetry, Micrometer
+Technologies: Golang, Java, Kotlin, Spring Framework/Spring Boot (4+ years), Spring Web/JPA/Flux/Cloud, Maven/Gradle, Apache Kafka, Redis, SQL/NoSQL, Elasticsearch, Promotheus, Mimir, Tempo, Grafana, Loki, OpenTelemetry, Micrometer
 
 Platform & SRE: Kubernetes, AWS, Docker, Google Cloud, Terraform, ArgoCD, Helm
 
