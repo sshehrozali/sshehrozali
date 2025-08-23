@@ -9,6 +9,9 @@ Platform & SRE: Kubernetes, AWS, Docker, Google Cloud, Terraform, ArgoCD, Helm
 <a href="https://www.linkedin.com/in/sshehrozali/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.linkedin.com/in/sshehrozali/" target="_blank">
+<img src=https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 #### Read my Top blogs:
 - <a href="https://shehroztalks.medium.com/how-we-modernized-identity-platform-for-millions-of-users-without-breaking-a-thing-at-bazaar-d66578a64af5" target="_blank">From Monolith to Modularity: Modernizing Identity Platform at Scale </a>
