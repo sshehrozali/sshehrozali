@@ -7,10 +7,10 @@ Technologies: Java, Kotlin, Spring Framework/Spring Boot (4+ years), Spring Web/
 Platform & SRE: Kubernetes, AWS, Docker, Google Cloud, Terraform, ArgoCD, Helm
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sshehrozali/" target="_blank">
+  <a href="https://www.linkedin.com/in/sshehrozali/">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://shehroztalks.medium.com/" target="_blank">
+  <a href="https://shehroztalks.medium.com/">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
   </a>
 </p>
