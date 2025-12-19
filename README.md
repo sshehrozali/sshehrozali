@@ -1,10 +1,12 @@
 
 
 ### 👋 Hi, Shehroz here
-#### I am always curious about working with big distributed systems, infrastructure & platforms that are powering millions of users.
-Technologies: Golang, Java, Kotlin, Spring Framework/Spring Boot (4+ years), Spring Web/JPA/Flux/Cloud, Maven/Gradle, Apache Kafka, Redis, SQL/NoSQL, Elasticsearch, Promotheus, Mimir, Tempo, Grafana, Loki, OpenTelemetry, Micrometer, and many more.
-
-Platform & SRE: Kubernetes, AWS, Docker, Google Cloud, Terraform, ArgoCD, Helm, etc.
+#### I'm always possionate and curoius about distributed systems, networking, storage and systems programming.
+Programming: C, Go, Java
+Expert in SpringBoot enterprise applications and ecosystem such as Spring Security, Spring Cloud, Spring Data & Spring GraphQL
+Storage: PostgreSQL, MySQL, Elasticsearch, Cassandra, DuckDB, ClickHouse, MongoDB, Apache Kafka, Kafka streams
+Tools: Promotheus, Micrometer, OpenTelemetry, Jaegar, Tempo, Mimir, Loki, TestContainers, Logback, Log4j, WireMock, etc.
+Platform: Kubernetes, AWS, Karpenter, Docker, ArgoCD, Terraform, Bash, Helm
 
 <p align="left"><a href="https://www.linkedin.com/in/sshehrozali/"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /</a><a href="https://shehroztalks.medium.com/"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" /></a>
 </p>
