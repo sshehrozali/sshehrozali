@@ -2,8 +2,10 @@
 #### I'm always possionate and curoius about distributed systems, networking, storage and systems programming.
 **Programming languages: Golang, Java, C**
 
-Expert in SpringBoot enterprise applications and ecosystem such as Spring Security, Spring Cloud, Spring Data & Spring GraphQL
-**Storage**: PostgreSQL, MySQL, Elasticsearch, Cassandra, DuckDB, ClickHouse, MongoDB, Apache Kafka, Kafka streams
+Expert in SpringBoot enterprise applications and ecosystem such as Spring Security, Spring Cloud, Spring Data & Spring GraphQL\
+
+**Storage**: PostgreSQL, MySQL, Elasticsearch, Cassandra, DuckDB, ClickHouse, MongoDB, Apache Kafka, Kafka streams\
+
 **Tools**: Promotheus, Micrometer, OpenTelemetry, Jaegar, Tempo, Mimir, Loki, TestContainers, Logback, Log4j, WireMock, etc.
 **Platform**: Kubernetes, AWS, Karpenter, Docker, ArgoCD, Terraform, Bash, Helm
 
