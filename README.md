@@ -1,5 +1,5 @@
 ### 👋 Hi, Shehroz here
-#### I'm always passionate and curious about distributed systems, networking, storage and systems programming.
+#### Everything about: cloud infrastructure, distributed computing, storage/databases, reactive programming, networking, compilers.
 **Programming languages: Golang, Java, C**
 
 Expert in SpringBoot enterprise applications and ecosystem such as Spring Security, Spring Cloud, Spring Data & Spring GraphQL<br>
