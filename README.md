@@ -1,12 +1,8 @@
 ### 👋 Hi, Shehroz here
 I enjoy learning, researching, building and writing about infrastructure, cloud-native systems, platform/product engineering, Java/Go, compilers, databases, concurrent programming, eBPF/OS kernel, networking, AI, GPUs and hardware design. 
 
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img src="./linkedin-btn.svg" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@YOUR_USERNAME" target="_blank">
-  <img src="./medium-btn.svg" alt="Medium" />
-</a>
+[![LinkedIn](./linkedin-btn.svg)](https://linkedin.com/in/sshehrozali)
+[![Medium](./medium-btn.svg)](https://shehroztalks.medium.com)
 
 Expert in JVM enterprise applications; Java 8-25, Kotlin, J2EE, Jersey (JAX-RS), JDO, Hibernate, JDBC, JPA, Spring Framework, Spring Boot (Web, Webflux, Data JPA), Spring Cloud (Eureka, Gateway, Load Balancer, Config), Resilience4j, Spring Security, gRPC more.
 
