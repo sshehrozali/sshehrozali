@@ -1,5 +1,5 @@
 ### 👋 Hi, Shehroz here
-I enjoy learning, researching, building and writing about infrastructure, cloud-native systems, platform engineering, Java/Go, compilers, databases, concurrent programming, eBPF/OS kernel, networking, AI, GPUs and hardware design. 
+I enjoy learning, researching, building and writing about infrastructure, cloud-native systems, platform/product engineering, Java/Go, compilers, databases, concurrent programming, eBPF/OS kernel, networking, AI, GPUs and hardware design. 
 
 Expert in SpringBoot enterprise applications and ecosystem such as Spring Security, Spring Cloud, Spring Data & Spring GraphQL<br>
 **Storage**: PostgreSQL, MySQL, Elasticsearch, Cassandra, DuckDB, ClickHouse, MongoDB, Apache Kafka, Kafka streams<br>
