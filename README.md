@@ -14,7 +14,7 @@ Testing & monitoring: Wiremock, TestContainers, JUnit/Mockito/MockK, Mirometer, 
 Platform & Cloud infra: Go, Kubernetes, ArgoCD, Terraform, Pulumi, AWS, Google Cloud, Helm, Envoy, Karpenter, Docker, Linux, Bash, etc.
 
 
-#### Read my Top blogs:
+### Read my Top blogs:
 - <a href="https://medium.com/@shehroztalks/one-os-thread-millions-of-goroutines-the-magic-of-gos-scheduler-explained-5144ec61f3a8" target="_blank">One OS Thread, Millions of Goroutines: The Magic of Go’s Scheduler Explained </a>
 - <a href="https://shehroztalks.medium.com/how-we-modernized-identity-platform-for-millions-of-users-without-breaking-a-thing-at-bazaar-d66578a64af5" target="_blank">From Monolith to Modularity: Modernizing Identity Platform at Scale </a>
 - <a href="https://www.linkedin.com/posts/sshehrozali_dataconsistency-replication-distributedsystems-activity-7193939774817107968-IHQm?utm_source=share&utm_medium=member_desktop" target="_blank">Ensuring Data consistency in high concurrent distributed event-driven systems </a>
