@@ -5,7 +5,7 @@ I enjoy learning, researching, building and writing about infrastructure, cloud-
 [![Medium](./medium-btn.svg)](https://shehroztalks.medium.com)
 [![Topmate](./topmate-btn.svg)](https://topmate.io/shehroz_ali/)
 
-Expert in JVM enterprise applications; Java 8-25, Kotlin, J2EE, Jersey (JAX-RS), JDO, Hibernate, JDBC, JPA, Spring Framework, Spring Boot (Web, Webflux, Data JPA), Spring Cloud (Eureka, Gateway, Load Balancer, Config), Resilience4j, Spring Security, gRPC more.
+Expert in JVM enterprise applications; Java 8-25, Kotlin, J2EE, Jarkarta EE, Jersey (JAX-RS), JDO, Hibernate, JDBC, JPA, Spring Framework, Spring Boot (Web, Webflux, Data JPA), Spring Cloud (Eureka, Gateway, Load Balancer, Config), Resilience4j, Spring Security, gRPC more.
 
 Data persistence/streaming: PostgreSQL, MySQL, Cassandra, ClickHouse, Redis, Elasticsearch, Logstash, Apache Kafka, RabbitMQ, MongoDB, SurrealDB.
 
